@@ -1,7 +1,6 @@
 # umi2-dva-user-dashboard
-使用 umi@2 版本开发的 User dashboard 例子
 
-> umi发布 2.0 版本，本项目参考 [umi-dva-user-dashboard](https://github.com/umijs/umi-dva-user-dashboard), 使用 umi@2 版本开发
+本项目是 [umi-dva-user-dashboard](https://github.com/umijs/umi-dva-user-dashboard) 的 umi@2 版本实现，使用 create-umi 脚手架工具搭建的 umi@2 + dva 的 用户管理的 CURD 应用。
 
 具体步骤请参考 [《umi@2 + dva，完成用户管理的 CURD 应用》](https://juejin.im/post/5b93c0cce51d450e9059a84e)
 
