@@ -23,4 +23,6 @@ export default {
       "pathRewrite": { "^/api" : "" }
     }
   },
+  base: '/userdashboard',
+  publicPath: '/userdashboard/'
 }
