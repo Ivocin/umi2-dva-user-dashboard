@@ -9,7 +9,7 @@ function Users({ dispatch, list: dataSource, loading, total, page: current }) {
   function deleteHandler(id) {
     dispatch({
       type: 'users/remove',
-      payload: id,
+      payload: {id},
     });
   }
 
